@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. Truck Stopping and dropping off coffee at roaster
+2. ???
+3. ???
+
+One behavior that is not simple:
+Not simple: Truck Stopping and dropping off coffee at roaster
+
+Animated Articulated Figure:
+Articulated: Truck-1
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- ???
+- ???

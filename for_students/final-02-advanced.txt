@@ -1,0 +1,8 @@
+Advanced Thing: 
+
+Procedurally Generated Object:
+    *For plants, randomly distributed leaves to the step
+Additional:
+* Road that uses CatmullRom Curve
+* Truck driving on road and dropping coffee off at roaster
+* Shader for mountain which changes color with elevation

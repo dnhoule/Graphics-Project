@@ -1,0 +1,11 @@
+List all attributions here, this include "self-attributions":
+
+coffe_cherries.jpg - https://www.google.com/search?rlz=1C5CHFA_enUS968US968&q=coffee+cherries+image&tbm=isch&sa=X&ved=2ahUKEwj6hMKo7d_-AhWQkokEHWF8DY4Q0pQJegQIDBAB&biw=1440&bih=714&dpr=2#imgrc=APTyHfLu38bewM
+house.jpg - https://unsplash.com/s/photos/texture-wall
+house.png - I made with house.jpg
+leaf.png - https://www.shutterstock.com/search/coffee-leaves
+m.png - https://johnflower.org/tutorial/make-mountains-blender-heightmaps
+roof.png - https://www.istockphoto.com/photo/red-roof-texture-gm521002690-91190609
+skybox.jpg - https://www.istockphoto.com/photos/blue-sky-360
+tread.jpg - https://www.istockphoto.com/photo/car-tires-gm502936829-43941390
+window.png - I made this for the truck window
